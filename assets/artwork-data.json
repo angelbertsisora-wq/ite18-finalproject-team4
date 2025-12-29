@@ -1,0 +1,231 @@
+{
+  "p1": {
+    "title": "The Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": "1889",
+    "description": "A famous painting depicting a swirling night sky over a village."
+  },
+  "p2": {
+    "title": "Water Lilies",
+    "artist": "Claude Monet",
+    "year": "1919",
+    "description": "An impressionist masterpiece featuring serene water lilies in a pond."
+  },
+  "p3": {
+    "title": "The Persistence of Memory",
+    "artist": "Salvador Dalí",
+    "year": "1931",
+    "description": "A surrealist painting with melting clocks in a dreamlike landscape."
+  },
+  "p4": {
+    "title": "Girl with a Pearl Earring",
+    "artist": "Johannes Vermeer",
+    "year": "1665",
+    "description": "A captivating portrait known as the Dutch Mona Lisa."
+  },
+  "b1": {
+    "title": "The Birth of Venus",
+    "artist": "Sandro Botticelli",
+    "year": "1485",
+    "description": "A Renaissance masterpiece depicting the goddess Venus."
+  },
+  "b2": {
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "year": "1893",
+    "description": "An expressionist work capturing intense emotional anguish."
+  },
+  "b3": {
+    "title": "Guernica",
+    "artist": "Pablo Picasso",
+    "year": "1937",
+    "description": "A powerful anti-war painting depicting the horrors of conflict."
+  },
+  "b4": {
+    "title": "The Great Wave",
+    "artist": "Hokusai",
+    "year": "1831",
+    "description": "A famous Japanese woodblock print of a massive wave."
+  },
+  "r1": {
+    "title": "The Last Supper",
+    "artist": "Leonardo da Vinci",
+    "year": "1495-1498",
+    "description": "A monumental fresco depicting Jesus and the apostles during the final meal; renowned for perspective and dramatic emotion."
+  },
+  "r2": {
+    "title": "The Creation of Adam",
+    "artist": "Michelangelo",
+    "year": "1512",
+    "description": "A fresco on the Sistine Chapel ceiling showing God giving life to Adam; one of the most iconic images ever created."
+  },
+  "r3": {
+    "title": "The School of Athens",
+    "artist": "Raphael",
+    "year": "1509-1511",
+    "description": "A fresco celebrating philosophy, featuring Plato, Aristotle, and other great thinkers; a masterpiece of symmetry and perspective."
+  },
+  "l1": {
+    "title": "The Birth of Venus",
+    "artist": "Sandro Botticelli",
+    "year": "1484-1486",
+    "description": "A mythological painting portraying Venus emerging from the sea; celebrated for elegance, grace, and symbolism."
+  },
+  "l2": {
+    "title": "Primavera",
+    "artist": "Sandro Botticelli",
+    "year": "1477-1482",
+    "description": "A visually rich allegorical painting representing spring and mythological figures like Venus, Cupid, and the Three Graces."
+  },
+  "l3": {
+    "title": "Annunciation",
+    "artist": "Leonardo da Vinci",
+    "year": "1472-1475",
+    "description": "An early work showing the angel Gabriel visiting Mary; known for Leonardo's delicate handling of light and atmospheric perspective."
+  },
+  "p1-front": {
+    "title": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "year": "1503-1506",
+    "description": "The most famous portrait in the world, known for its mysterious smile and masterful use of sfumato."
+  },
+  "p2-front": {
+    "title": "Assumption of the Virgin",
+    "artist": "Titian",
+    "year": "1516-1518",
+    "description": "A dramatic altar painting showing the Virgin Mary rising to heaven, admired for its vibrant color and dynamic composition."
+  },
+  "p3-front": {
+    "title": "Sistine Madonna",
+    "artist": "Raphael",
+    "year": "1512",
+    "description": "Revered for its serene holy figures and the two famous cherubs at the bottom of the painting."
+  },
+  "p4-front": {
+    "title": "The Holy Trinity",
+    "artist": "Masaccio",
+    "year": "1427",
+    "description": "Known as the first masterpiece using linear perspective; it revolutionized Renaissance painting techniques."
+  },
+  "p5-front": {
+    "title": "The Arnolfini Portrait",
+    "artist": "Jan van Eyck",
+    "year": "1434",
+    "description": "A hyper-detailed oil painting famous for its symbolism and the incredible realism of textures and light."
+  },
+  "l4": {
+    "title": "The Garden of Earthly Delights",
+    "artist": "Hieronymus Bosch",
+    "year": "1510",
+    "description": "A triptych depicting paradise, earth, and hell."
+  },
+  "l5": {
+    "title": "The Kiss",
+    "artist": "Gustav Klimt",
+    "year": "1908",
+    "description": "A symbolist painting of an embracing couple."
+  },
+  "float1": {
+    "title": "Impression, Sunrise",
+    "artist": "Claude Monet",
+    "year": "1872",
+    "description": "The painting that gave Impressionism its name."
+  },
+  "float2": {
+    "title": "Nighthawks",
+    "artist": "Edward Hopper",
+    "year": "1942",
+    "description": "An iconic American scene of a late-night diner."
+  },
+  "float3": {
+    "title": "The Hay Wain",
+    "artist": "John Constable",
+    "year": "1821",
+    "description": "A romantic landscape of the English countryside."
+  },
+  "float4": {
+    "title": "Wanderer above the Sea of Fog",
+    "artist": "Caspar David Friedrich",
+    "year": "1818",
+    "description": "A romantic painting of a figure contemplating nature."
+  },
+  "c1": {
+    "title": "The Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": "1889",
+    "description": "A swirling night sky over a quiet village, painted with emotional intensity; one of the most celebrated modern artworks."
+  },
+  "c2": {
+    "title": "Composition with Red, Blue, and Yellow",
+    "artist": "Piet Mondrian",
+    "year": "1930",
+    "description": "A key abstract painting from the De Stijl movement, using geometric shapes and primary colors to express harmony and balance."
+  },
+  "c3": {
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "year": "1893",
+    "description": "An iconic expressionist painting capturing existential anxiety and emotional turmoil with intense colors and swirling lines."
+  },
+  "right-l1": {
+    "title": "The Wanderer Above the Ruins",
+    "artist": "Wojtek Fus",
+    "year": "2019",
+    "description": "A dystopian reinterpretation of the romantic \"Wanderer Above the Sea of Fog,\" featuring futuristic destroyed cities."
+  },
+  "right-l2": {
+    "title": "Bloom",
+    "artist": "Loish",
+    "year": "2019",
+    "description": "A vibrant, stylized depiction of a girl surrounded by flowers, representing growth and renewal."
+  },
+  "right-l3": {
+    "title": "The Stranger",
+    "artist": "Charlie Bowater",
+    "year": "2017",
+    "description": "A portrait of a mysterious woman with intricate costume designs and expressive lighting."
+  },
+  "right-l4": {
+    "title": "The White Dragon",
+    "artist": "Ruan Jia",
+    "year": "2016",
+    "description": "A serene fantasy portrait of a maiden and a dragon, known for its painterly softness and ethereal lighting."
+  },
+  "right-r1": {
+    "title": "The Shire – Hobbiton (Concept Art)",
+    "artist": "Alan Lee",
+    "year": "2001",
+    "description": "Digital concept art for *The Lord of the Rings* showing Hobbiton's iconic landscape."
+  },
+  "right-r2": {
+    "title": "The Mines of Moria (Concept Art)",
+    "artist": "John Howe",
+    "year": "2001",
+    "description": "A dramatic digital painting visualizing the vast underground architecture of Moria."
+  },
+  "right-r3": {
+    "title": "Coruscant Cityscape (Concept Art)",
+    "artist": "Ralph McQuarrie",
+    "year": "1997",
+    "description": "A digital/paint hybrid imagining of Coruscant for the Star Wars prequels; very famous and widely referenced."
+  },
+  "right-r4": {
+    "title": "Dreamscape No. 42",
+    "artist": "Android Jones",
+    "year": "2015",
+    "description": "Psychedelic digital art featuring fractal dreams, spiritual motifs, and vibrant neon colors."
+  },
+  "right-c1": {
+    "title": "Star Wars: Duel on Mustafar (Concept Art)",
+    "artist": "Ryan Church",
+    "year": "2005",
+    "description": "Concept art for *Revenge of the Sith*, showing the fiery volcano duel; highly influential in digital environment design."
+  },
+  "right-c2": {
+    "title": "Union",
+    "artist": "Android Jones",
+    "year": "2018",
+    "description": "A symbolic merging of two figures into a cosmic energy form; themes of consciousness and transcendence."
+  }
+}
+
