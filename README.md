@@ -50,7 +50,7 @@ The application aims to democratize access to art appreciation and education by 
 - Developed the artwork information card system with dynamic positioning
 - Integrated lighting systems and visual effects for enhanced realism
 
-**Irvin O. Demonguitan – Backend Development**
+**Irvin O. Demonguitan – Backend Development, Project Manager**
 - Designed and implemented the artwork metadata JSON structure
 - Developed the data loading and management system for artwork information
 - Created the artwork interaction component logic for click events
